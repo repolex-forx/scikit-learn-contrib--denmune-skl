@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "denmune-skl",
+  "versions": [
+    {
+      "commit": "b06d026fb657e923fe31631d45252172e2b1b542",
+      "tag": "",
+      "parsed_at": "2026-10-28T17:03:45.222216+00:00"
+    }
+  ]
+}
